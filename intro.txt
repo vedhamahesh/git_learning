@@ -10,3 +10,5 @@ My name is Vedha Mahesh
 
 ## Merge -> Merge into the master branch
 ## Commit -> Checkpoint 
+
+## Fetch and Pull Before any changes
