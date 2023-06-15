@@ -2,7 +2,7 @@ My name is Vedha Mahesh
 
 ## Change 2
 change 1
-more changes 
+more changes conflict
 
 ## Git Contains
 ### Branches - Master, feature Brances
