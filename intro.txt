@@ -20,4 +20,7 @@ more changes conflict
 
 ## Added new feature branch
 
+added a second feature branch
 Added a third feature
+
+add change 3
