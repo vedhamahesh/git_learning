@@ -7,8 +7,9 @@ more changes
 ## Git Contains
 ### Branches - Master, feature Brances
 
-## Master branch should remain clean
+## Master branch should always remain clean
 
+## Merging with Conflicts is also important in team building
 ### PR - Pull Requests -> when you are done with your changes and want to merge them with master
 
 
@@ -20,3 +21,4 @@ more changes
 ## Added new feature branch
 
 added a second feature branch
+Added a third feature
