@@ -1,0 +1,11 @@
+My name is Vedha
+## Git Contains
+### Branches - Master, feature Brances
+
+## Master branch should remain clean
+
+### PR - Pull Requests -> when you are done with your changes and want to merge them with master
+
+
+## Merge -> Merge into the master branch
+## Commit -> Checkpoint 
