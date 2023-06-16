@@ -5,6 +5,7 @@ change 1
 more changes conflict
 
 ## Git Contains
+### Branches - Master, feature Branches 
 ### Branches - Master,dev, feature Branches
 
 ## Master branch should always remain clean
